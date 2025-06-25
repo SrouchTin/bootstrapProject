@@ -9,3 +9,8 @@
     height: 4px;
     background-color: rgb(91, 91, 237);
 }
+.img-portfolio{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
